@@ -137,7 +137,7 @@ import {
       date: "Aug 2022 - Present",
       points: [
         "Track Designing: Specializing in professional track designing services for both on-road and off-road events, ensuring optimal performance and safety for participants.",
-        "Corporate Team Building: Creating engaging and adrenaline-pumping experiences for corporate team building activities, including car and motorcycle rallies, fostering teamwork and camaraderie.",
+        "Corporate Team ing: Creating engaging and adrenaline-pumping experiences for corporate team building activities, including car and motorcycle rallies, fostering teamwork and camaraderie.",
         "Off-Site Events: Offering unique and thrilling off-site corporate event experiences that go beyond traditional venues, providing memorable moments for clients and their teams.",
         "Customized Engagements: Tailoring packages to meet specific client needs, delivering exceptional automotive event services, and ensuring customer satisfaction every step of the way.",
       ],
